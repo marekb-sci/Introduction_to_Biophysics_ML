@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu # to get CPU only PyTorch version
+torch
 numpy
 pandas
 matplotlib
