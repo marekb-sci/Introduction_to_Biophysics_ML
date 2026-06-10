@@ -8,6 +8,13 @@ Artykułowi towarzyszy kod, do którego na użytek ćwiczeń zostały dodane skr
 
 Instalacja i pobranie wag wg intruckji z repozytorium
 
+Instalacja python3.9:
+```
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install python3.9
+```
+
 
 ## 2. Przykłady z repozytorium
 
